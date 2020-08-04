@@ -8,7 +8,7 @@ This module does not currently handle multi-disk ZIP files. It can handle ZIP fi
 The zipfile module is an inbuilt module in Python
 
 
-<<<<<<< HEAD
+
 ![](home.png)
 
 
